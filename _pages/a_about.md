@@ -27,6 +27,8 @@ social: true # includes social icons at the bottom of the page
 <meta name="msapplication-config" content="assets/img/favicons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+<img src="assets/image/header02.png" alt="bannernew" style="width: 135px; height: 49.2188px; margin-top: 0px; margin-left: 0px;">
+
 <div style="font-size: 1.0rem; text-decoration: underline;">
 Short Biodata
 </div>
