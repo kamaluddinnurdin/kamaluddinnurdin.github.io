@@ -31,6 +31,7 @@ Library & University Catalog Links
 - [Giorgio La Pira library, Italy](https://lapira.diamond-ils.org/manifestation/243644)
 - [Gümüşhane University Library, Türkiye](https://katalog.gumushane.edu.tr/yordam/?p=1&dil=0&fq[0]=kunyeSekilKN_str%3A%2201%22&fq[1]=kunyeYayinTarihi_str%3A%222014%2F1435%22&fq[2]=kunyeYayinlayan_str%3A%22Dar%C3%BC%27l-K%C3%BCt%C3%BCbi%27l-%C4%B0lmiyye%20%3D%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9%22)
 - [Akadeniz University Library, Türkiye](http://tarama.akdeniz.edu.tr/yordam/?dil=0&p=1&q=kemaleddin%20nureddin%20mercuni&alan=tum_txt)
+- [University of Batna 1, Algeria](https://pmb.univ-batna.dz/opac_fsi/index.php?lvl=author_see&id=13907)
 - [Kyoto University, Japan](https://kuline.kulib.kyoto-u.ac.jp/opac/opac_details/?reqCode=fromlist&lang=0&amode=11&bibid=BB02561547&opkey=B170912541053475&start=1&totalnum=1&listnum=0&place=&list_disp=20&list_sort=6&cmode=0&chk_st=0&check=0)
 - [National Institute of Informatics, Japan](https://ci.nii.ac.jp/ncid/BA85086063.amp)
 - [Salim Abdullah Al Humaid Public Islamic Univerisity, UAE](http://salemlib.dyndns-web.com:8000/cgi-bin/koha/opac-detail.pl?biblionumber=21475)
