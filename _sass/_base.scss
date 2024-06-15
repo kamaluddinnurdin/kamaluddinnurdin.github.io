@@ -1113,10 +1113,13 @@ swiper-container {
 }
 
 //Arabic text
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap");
+
 .rtl {
   direction: rtl;
   text-align: right;
   text-justify: auto;
+  font-family: "Noto Kufi Arabic", sans-serif;
 }
 .distill-post-title {
   font-size: 1.5rem; /* Adjust the font size as needed */
