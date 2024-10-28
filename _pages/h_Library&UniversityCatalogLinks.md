@@ -29,6 +29,7 @@ Library & University Catalog Links
 - [The British Library, UK](https://ezborrow.reshare.indexdata.com/Author/Home?author=Marju%CC%84ni%CC%84%2C+Kama%CC%84l+al-Di%CC%84n+Nu%CC%84r+al-Di%CC%84n)
 - [Institute of Ismaili Studies, Aga Khan Library, UK](https://eds.p.ebscohost.com/eds/results?vid=1&sid=66a80158-ca6a-4661-b2a4-9b65788c77cf%40redis&bquery=kamal+al-din+nur+al-din&bdata=JmNsaTA9RlQxJmNsdjA9WSZ0eXBlPTAmc2VhcmNoTW9kZT1BbmQmc2l0ZT1lZHMtbGl2ZQ%3d%3d)
 - [Giorgio La Pira library, Italy](https://lapira.diamond-ils.org/manifestation/243644)
+- [Izmir Katip Celebi Universitesi İzmir, Türkiye](https://ikcu.summon.serialssolutions.com/#!/search?pn=1&ho=t&include.ft.matches=t&l=tu-TU&q=Kemaleddin%20Nureddin)
 - [Gümüşhane University Library, Türkiye](https://katalog.gumushane.edu.tr/yordam/?p=1&dil=0&fq[0]=kunyeSekilKN_str%3A%2201%22&fq[1]=kunyeYayinTarihi_str%3A%222014%2F1435%22&fq[2]=kunyeYayinlayan_str%3A%22Dar%C3%BC%27l-K%C3%BCt%C3%BCbi%27l-%C4%B0lmiyye%20%3D%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9%22)
 - [Akadeniz University Library, Türkiye](http://tarama.akdeniz.edu.tr/yordam/?dil=0&p=1&q=kemaleddin%20nureddin%20mercuni&alan=tum_txt)
 - [University of Batna 1, Algeria](https://pmb.univ-batna.dz/opac_fsi/index.php?lvl=author_see&id=13907)
