@@ -48,3 +48,4 @@ Library & University Catalog Links
 - [Qatar National Library, Qatar](https://elibrary.qnl.qa/iii/mobile/search/C__S%D9%85%D8%B1%D8%AC%D9%88%D9%86%D9%8A__Ff:facetlocations:mg:mg:Main%20General%20Collection%20(QNL)::__Ff:facetlocations:mj:mj:Children%20Library%20(QNL)::__Ff:facetlocations:mh:mh:Heritage%20Library%20(QNL)::__Ff:facetlocations:monle:monle:QNL%20Online%20Collection::__Ff:facetlocations:mt:mt:Teens%20Section%20(QNL)::__Orightresult__X0?lang=ara&suite=def&ivts=18dRwDYIx7HeOwXAW0EL5w%3D%3D&casts=mG7Eo2CNVTSlzw1KJD1cPg%3D%3D)
 - [Public Library of Bahāʾ ad-Dīn al-ʿĀmilī, Lebanon](http://library.alalbayt.org.lb/cgi-bin/koha/opac-detail.pl?biblionumber=9200)
 - [King Fahad National Library, Saudi Arabia](https://ecat.kfnl.gov.sa/ipac20/ipac.jsp?session=16012091V09E7.28507&profile=akfnl&uri=full%3D3100006%40%21593439%40%210&booklistformat=)
+- [Aljamea-tus-Saifiyah Mumbai, India](https://library-opac.ajsn.co.ke/cgi-bin/koha/opac-detail.pl?biblionumber=23778)
